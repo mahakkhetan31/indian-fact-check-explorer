@@ -32,6 +32,10 @@ This project explores a dataset of fact-checking articles to understand publicat
 
 Source: [Precog Research Group — Datasets](https://precog.iiit.ac.in/datasets/)
 
+## Live Demo
+
+Explore the interactive dashboard here: **[Indian Fact-Check Explorer](https://indian-fact-check-explorer-hgjtqfcjwzpbslwc6ihkpr.streamlit.app/)**
+
 
 ## Limitations
 
@@ -39,7 +43,6 @@ The dataset contains collected fact-checking articles rather than all claims cir
 
 ## Future Scope
 
-- Build an interactive Streamlit dashboard.
 - Improve model evaluation using more robust data splits.
 - Explore retrieval-augmented generation (RAG) for fact-checking research.
 

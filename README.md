@@ -14,6 +14,10 @@ This project explores a dataset of fact-checking articles to understand publicat
 - Investigate the availability of social media links.
 - Experiment with NLP techniques, topic modeling, and text classification.
 
+## Live Demo
+
+Explore the interactive dashboard here: **[Indian Fact-Check Explorer](https://indian-fact-check-explorer-hgjtqfcjwzpbslwc6ihkpr.streamlit.app/)**
+
 ## Technologies Used
 
 - Python
@@ -31,11 +35,6 @@ This project explores a dataset of fact-checking articles to understand publicat
 ## Dataset
 
 Source: [Precog Research Group — Datasets](https://precog.iiit.ac.in/datasets/)
-
-## Live Demo
-
-Explore the interactive dashboard here: **[Indian Fact-Check Explorer](https://indian-fact-check-explorer-hgjtqfcjwzpbslwc6ihkpr.streamlit.app/)**
-
 
 ## Limitations
 
